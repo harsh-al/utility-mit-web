@@ -1,0 +1,123 @@
+.no-margin
+{
+margin: 0px;
+}
+.no-padding
+{
+	padding: 0px;
+}
+.site-footer
+{
+
+	background-color: #F8F8F8 
+	;
+	color: #707070  ;
+	margin-top: 30px;
+	padding-top: 30px;
+	
+}
+
+ul.unstyled {
+
+	list-style: none;
+
+}
+ 
+.navbar-red{
+
+	background: #B80000 ;
+}
+
+.navbar-default .navbar-nav>li>a:focus, .navbar-default .navbar-nav>li>a:hover {
+    color: white;
+    background-color: #B23838;
+}
+
+.form-control {
+    display: block;
+    width: 100%;
+    height: 30px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: grey;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    -webkit-box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    box-shadow: inset 0 1px 1px rgba(0,0,0,.075);
+    -webkit-transition: border-color ease-in-out .15s,-webkit-box-shadow ease-in-out .15s;
+    -o-transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+    transition: border-color ease-in-out .15s,box-shadow ease-in-out .15s;
+}
+
+.sub_button {
+    margin-left: -2px;
+    margin-right: 2px;
+    display: block;
+}
+
+
+h5 {
+    font-size: 27px;
+    line-height: 27px;
+    font-family: 'Marvel', sans-serif;
+    text-align: center;
+    margin-bottom: 20px;
+    color: #000000;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+
+.social-networking {
+            float: right;
+            width: 147px;
+            text-align: right;
+        }
+
+            .social-networking ul {
+                float: right;
+                margin: 0px;
+            }
+
+        ul {
+            list-style: none;
+        }
+
+        .social-networking ul li {
+            padding: 0px;
+            background: none;
+            float: left;
+        }
+
+            .social-networking ul li a.facebook {
+                background: url(images/social-networking.png) no-repeat 0px 0px;
+            }
+
+            .social-networking ul li a.youtube {
+                background: url(images/social-networking.png) no-repeat -66px 0px;
+            }
+
+            .social-networking ul li a.google {
+                background: url(images/social-networking.png) no-repeat -100px 0px;
+            }
+
+            .social-networking ul li a.twitter {
+                background: url(images/social-networking.png) no-repeat -33px 0px;
+            }
+
+            .social-networking ul li a {
+                width: 33px;
+                height: 33px;
+                float: left;
+                display: block;
+                text-indent: 955px;
+                overflow: hidden;
+                margin-top: 5px;
+                margin-right: 3px;
+            }
